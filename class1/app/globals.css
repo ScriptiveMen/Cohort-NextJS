@@ -33,3 +33,7 @@ h1 {
   font-size: 7vw;
   letter-spacing: -6px;
 }
+
+nextjs-portal {
+  display: none;
+}
